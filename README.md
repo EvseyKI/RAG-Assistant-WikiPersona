@@ -19,6 +19,6 @@
 Чтобы создать свою векторную базу данных, используйте файл [ru_wiki_person.txt](https://drive.google.com/file/d/1ktW-LxneHkh9-5eL5E1PqnH6drP-F2id/view?usp=drive_link), который содержит текстовые данные из статей Википедии:
 
 ### Использование готовой базы данных
-Если вы не хотите создавать базу данных вручную, вы можете использовать готовую векторную базу данных: [chroma_db.zip](https://drive.google.com/file/d/1CNGsJccadoRlFUngW_N1X1CjXo_3fq6X/view?usp=drive_link)
+Если вы не хотите создавать базу данных вручную, вы можете использовать готовую векторную базу данных: [chroma_db.zip](https://drive.google.com/file/d/1CNGsJccadoRlFUngW_N1X1CjXo_3fq6X/view?usp=drive_link).
 
 В ноутбуке необходимо изменить пути, указанные в переменных path, на те, которые соответствуют вашему окружению и системе. Например, замените путь к вашим локальным файлам или файлам в Google Drive.
